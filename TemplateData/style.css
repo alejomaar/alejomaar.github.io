@@ -49,6 +49,7 @@ body {
 }
 #unity-footer {
   position: relative;
+  display: none;
 }
 .unity-mobile #unity-footer {
   display: none;
